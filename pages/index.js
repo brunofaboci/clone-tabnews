@@ -176,9 +176,9 @@ export default function Home() {
               </div>
               <div className="contact-card">
                 <p>FabTech</p>
-                <p>(19) 99398-7410</p>
+                <p>(19) 3891-4421</p>
                 <p>Mogi Guacu - Sao Paulo</p>
-                <a className="button primary" href="tel:+5519993987410">
+                <a className="button primary" href="tel:+551938914421">
                   Ligar agora
                 </a>
               </div>
@@ -197,7 +197,7 @@ export default function Home() {
               Rua Francisco Arruda Melo, 07, Jardim America, Mogi Guacu / Sao
               Paulo - CEP 13848-014
             </span>
-            <span>Telefone: (19) 99398-7410</span>
+            <span>Telefone: (19) 3891-4421</span>
           </div>
         </footer>
       </div>
