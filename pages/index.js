@@ -10,8 +10,6 @@ export default function Home() {
           name="description"
           content="FabTech: automacao inteligente para empresas que querem acelerar processos com IA."
         />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
       </Head>
 
       <div className="page">
@@ -31,7 +29,9 @@ export default function Home() {
           <section className="hero">
             <div className="hero-content">
               <p className="eyebrow">Automacao com IA para negocios reais</p>
-              <h1>Processos mais rapidos, equipes mais leves e decisoes melhores</h1>
+              <h1>
+                Processos mais rapidos, equipes mais leves e decisoes melhores
+              </h1>
               <p className="lead">
                 A FabTech desenha e implementa automacoes com IA para eliminar
                 tarefas repetitivas, integrar sistemas e dar visibilidade
