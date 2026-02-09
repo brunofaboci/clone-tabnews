@@ -12,10 +12,6 @@ export default function Home() {
         />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap"
-          rel="stylesheet"
-        />
       </Head>
 
       <div className="page">
@@ -145,8 +141,8 @@ export default function Home() {
               </div>
               <div className="quote">
                 <p>
-                  "A FabTech trouxe ganhos visiveis na operacao e reduziu o
-                  tempo de atendimento em poucas semanas."
+                  &ldquo;A FabTech trouxe ganhos visiveis na operacao e reduziu o
+                  tempo de atendimento em poucas semanas.&rdquo;
                 </p>
                 <span>Gestao de Operacoes</span>
               </div>
