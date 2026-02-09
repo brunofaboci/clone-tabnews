@@ -94,21 +94,15 @@ export default function Home() {
               </div>
               <div className="card">
                 <h3>IA aplicada a atendimento</h3>
-                <p>
-                  Assistentes e triagem automatica com integrações a CRM.
-                </p>
+                <p>Assistentes e triagem automatica com integrações a CRM.</p>
               </div>
               <div className="card">
                 <h3>Integracao de sistemas</h3>
-                <p>
-                  Conectamos ERPs, CRMs e bases de dados com segurança.
-                </p>
+                <p>Conectamos ERPs, CRMs e bases de dados com segurança.</p>
               </div>
               <div className="card">
                 <h3>Analise e inteligencia</h3>
-                <p>
-                  Dashboards e insights com dados limpos e em tempo real.
-                </p>
+                <p>Dashboards e insights com dados limpos e em tempo real.</p>
               </div>
               <div className="card">
                 <h3>Automacao financeira</h3>
@@ -118,9 +112,7 @@ export default function Home() {
               </div>
               <div className="card">
                 <h3>Treinamento e governanca</h3>
-                <p>
-                  Acompanhamento, documentacao e boas praticas de IA.
-                </p>
+                <p>Acompanhamento, documentacao e boas praticas de IA.</p>
               </div>
             </div>
           </section>
@@ -141,8 +133,8 @@ export default function Home() {
               </div>
               <div className="quote">
                 <p>
-                  &ldquo;A FabTech trouxe ganhos visiveis na operacao e reduziu o
-                  tempo de atendimento em poucas semanas.&rdquo;
+                  &ldquo;A FabTech trouxe ganhos visiveis na operacao e reduziu
+                  o tempo de atendimento em poucas semanas.&rdquo;
                 </p>
                 <span>Gestao de Operacoes</span>
               </div>
@@ -163,9 +155,7 @@ export default function Home() {
               </div>
               <div className="card">
                 <h3>Entrega em ciclos curtos</h3>
-                <p>
-                  MVP funcional rapido com evolucao por sprints.
-                </p>
+                <p>MVP funcional rapido com evolucao por sprints.</p>
               </div>
               <div className="card">
                 <h3>Seguranca e conformidade</h3>
