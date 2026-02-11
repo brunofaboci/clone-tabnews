@@ -1,5 +1,6 @@
 // pages/index.js
 import Head from "next/head";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -19,6 +20,8 @@ export default function Home() {
             <a href="#servicos">Servicos</a>
             <a href="#sobre">Sobre</a>
             <a href="#diferenciais">Diferenciais</a>
+            <Link href="/politica-de-privacidade">Privacidade</Link>
+            <Link href="/termos-de-servico">Termos</Link>
             <a href="#contato" className="cta">
               Fale com a gente
             </a>
@@ -176,9 +179,9 @@ export default function Home() {
               </div>
               <div className="contact-card">
                 <p>FabTech</p>
-                <p>(19) 3891-4421</p>
+                <p>(19) 98950-8042</p>
                 <p>Mogi Guacu - Sao Paulo</p>
-                <a className="button primary" href="tel:+551938914421">
+                <a className="button primary" href="tel:+5519989508042">
                   Ligar agora
                 </a>
               </div>
@@ -197,7 +200,14 @@ export default function Home() {
               Rua Francisco Arruda Melo, 07, Jardim America, Mogi Guacu / Sao
               Paulo - CEP 13848-014
             </span>
-            <span>Telefone: (19) 3891-4421</span>
+            <span>Telefone: (19) 98950-8042</span>
+            <span>
+              <Link href="/politica-de-privacidade">
+                Politica de Privacidade
+              </Link>
+              {" | "}
+              <Link href="/termos-de-servico">Termos de Servico</Link>
+            </span>
           </div>
         </footer>
       </div>
